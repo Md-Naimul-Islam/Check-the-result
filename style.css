@@ -1,0 +1,22 @@
+#main{
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("img.jpg");
+	background-position: center ;
+	background-size: cover;
+	position: absolute;
+
+}
+#inputs{
+	width:24rem;
+	height: 28rem;
+	box-shadow: 10px 10px 15px coral;
+	position: relative;
+	margin: 6% auto;
+	border-radius: 1rem;
+	font-weight: bolder;
+	background-color: #617C58;
+	padding: 8px;
+	color: white;
+	text-align: center;
+}
